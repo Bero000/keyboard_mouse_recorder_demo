@@ -1,0 +1,6 @@
+Çıkartılan dosyanın içerisinde bin/Debug klasörüne gir.
+Tür'ü uygulama olan Repeater'a çift tıkla.
+Kayda hazırsın.
+Öncelikle 1 kere kayıt tuşuna bas ardından gelen ekranda enter tuşuna bas.
+Yapılacak işlemlerin ardından uygulamayı tekrar açıp kaydı durdur.
+Sonrasında Play tuşuna bas.
